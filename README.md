@@ -1,4 +1,3 @@
-# -Pizza-Sales-Data-Analysis-SQL-Project-
 
 # 🍕 Pizza Sales Data Analysis (SQL Project)
 
@@ -55,18 +54,16 @@ D. Product-Level Insights
 1.Import the Dataset:
 Ensure the pizza_sales table is loaded into your SQL environment.
 
-li
-
 2.Run the SQL Queries:
 Open your SQL IDE and run the queries provided in PIZZA SALES SQL QUERIES.docx. These are organized by:
 
 KPIs
 
-Time-Based Trends
+-Time-Based Trends
 
-Category/Size Distribution
+-Category/Size Distribution
 
-Product Performance
+-Product Performance
 
 🧠 Conclusion :-
 
