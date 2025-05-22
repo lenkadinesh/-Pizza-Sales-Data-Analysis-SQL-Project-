@@ -74,7 +74,7 @@ This project showcases how SQL can be leveraged to derive valuable business insi
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lenkaDinesh7?t=JcsSpsD1gkIbR6iRtGpSrQ&s=09)
 
 
-## Excel csv, SQl outpu files link( Github only support small file) 
+## Excel csv, SQl output files link( Github only support small file) 
 
 link:-https://drive.google.com/drive/folders/1tFqXdU6WWrX4ZFE7QobIo9wAkGl1EBGY?usp=sharing
 
@@ -97,5 +97,4 @@ I'm a passionate Data Analyst with a strong foundation in SQL, Excel, and data v
 📞 Contact
 
 lenka.dinesh01@gmail.com
-
 
