@@ -81,6 +81,9 @@ link:-https://drive.google.com/drive/folders/1tFqXdU6WWrX4ZFE7QobIo9wAkGl1EBGY?u
 
 
 ## 🚀 About Me
+
+Github profile :- (https://github.com/lenkadinesh/Lenka-Dinesh.git)
+
 I'm a passionate Data Analyst with a strong foundation in SQL, Excel, and data visualization tools like Power BI  I specialize in transforming raw data into actionable insights that help businesses make informed decisions. With experience in cleaning, analyzing, and presenting data.
 
 ## 🛠 Skills
